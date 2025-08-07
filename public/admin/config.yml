@@ -2,7 +2,7 @@ backend:
   name: github
   branch: main # change this to your branch
   repo: cunzhong/cactus # 1、change this to your repo
-  site_domain: https://cactus-tau.vercel.app/ # 2、change this to your domain
+  site_domain: https://cactus-tau.vercel.app # 2、change this to your domain
   base_url: https://example.com # 3、change this to your prod URL
   auth_endpoint: oauth # the oauth route provided by the integration
 
